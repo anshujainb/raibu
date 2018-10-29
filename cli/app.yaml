@@ -1,0 +1,11 @@
+clientName: GOOGLE
+appName: myapp
+images: 
+ - 
+  name: myimage
+  port: 1234
+ - 
+  name: myimage
+  port: 3445
+# this json to cli ->orchastrator app deploy->get list of cName from database and save it to object
+# how to define port for flask

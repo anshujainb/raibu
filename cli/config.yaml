@@ -1,0 +1,13 @@
+---
+#instance details
+Image_Id: ami-db710fa3
+clientName: GOOGLE
+Instance_type: t2.micro
+Security_group: awsclass01
+MinCount: 1
+MaxCount: 3
+KeyName: testEC2
+Access_Key: XXX
+Secret_Key: XXXX
+Region: us-west-2
+
